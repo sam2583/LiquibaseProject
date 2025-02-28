@@ -1,6 +1,6 @@
 #  Spring Boot + Liquibase Integration
 
-This project demonstrates how to integrate **Liquibase** with **Spring Boot** for database version control.
+This project demonstrates how to integrate **Liquibase** with **Spring Boot** .
 
 ##  Why Use Liquibase?
 Liquibase helps manage database changes in a structured and versioned way. It allows for easy rollbacks, multiple environments, and collaboration in teams.
